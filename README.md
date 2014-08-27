@@ -10,8 +10,8 @@ The aim here is to illustrate modification of the agreed HAP-E logo, so that we 
 
 The original, version 3, looks good but the horizontal colour bands are difficult to distinguish in greyscale:
 
-![Agreed colour logo](jpeg/HAP-E_logo_v3_colour_change.jpg =250x)
-![Default greyscale filter](jpeg/HAP-E_logo_v3_greyscale.jpg =250x)
+![Agreed colour logo](jpeg/HAP-E_logo_v3_colour_change.jpg?raw=True =250x)
+![Default greyscale filter](jpeg/HAP-E_logo_v3_greyscale.jpg?raw=True =250x)
 
 ## Modifications
 
@@ -28,7 +28,7 @@ I did this by individual modifications to the blue, green and brown hue/saturati
 
 This approach retains the original colour graphic, but proposes a new greyscale rendering to accompany it, that is not just a default greyscale conversion of the original colour graphic. I did this by modifying the blue, green and brown colour brightnesses so that they had values of 33, 139 and 99, respectively on a 256-point greyscale.
 
-![Greyscale modification](jpeg/HAP-E_logo_vBW.jpg =250x)
+![Greyscale modification](jpeg/HAP-E_logo_vBW.jpg?raw=True =250x)
 
 This renders three distinguishable bands, though the corresponding colour graphic is not attractive. Other combinations of brightness for each colour are possible.
 
@@ -42,13 +42,13 @@ Although these variants produce greyscale renderings with distinguishable spot b
 
 #### Version 5:
 
-![v5 colour logo](jpeg/HAP-E_logo_v5.jpg =250x)
-![v5 greyscale logo](jpeg/HAP-E_logo_v5_bw.jpg =250x)
+![v5 colour logo](jpeg/HAP-E_logo_v5.jpg?raw=True =250x)
+![v5 greyscale logo](jpeg/HAP-E_logo_v5_bw.jpg?raw=True =250x)
 
 #### Version 6:
 
-![v6 colour logo](jpeg/HAP-E_logo_v6.jpg =250x)
-![v6 greyscale logo](jpeg/HAP-E_logo_v6_bw.jpg =250x)
+![v6 colour logo](jpeg/HAP-E_logo_v6.jpg?raw=True =250x)
+![v6 greyscale logo](jpeg/HAP-E_logo_v6_bw.jpg?raw=True =250x)
 
 ## Conclusion
 
